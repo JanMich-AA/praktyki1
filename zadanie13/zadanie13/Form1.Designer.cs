@@ -32,6 +32,8 @@
             exits = new ComboBox();
             goThoughTheDoor = new Button();
             goHere = new Button();
+            button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // description
@@ -39,7 +41,7 @@
             description.Location = new Point(12, 12);
             description.Multiline = true;
             description.Name = "description";
-            description.Size = new Size(398, 186);
+            description.Size = new Size(398, 253);
             description.TabIndex = 0;
             description.TextChanged += description_TextChanged;
             // 
@@ -47,7 +49,7 @@
             // 
             exits.DropDownStyle = ComboBoxStyle.DropDownList;
             exits.FormattingEnabled = true;
-            exits.Location = new Point(201, 204);
+            exits.Location = new Point(201, 271);
             exits.Name = "exits";
             exits.Size = new Size(209, 33);
             exits.TabIndex = 1;
@@ -55,7 +57,7 @@
             // 
             // goThoughTheDoor
             // 
-            goThoughTheDoor.Location = new Point(12, 243);
+            goThoughTheDoor.Location = new Point(12, 310);
             goThoughTheDoor.Name = "goThoughTheDoor";
             goThoughTheDoor.Size = new Size(398, 34);
             goThoughTheDoor.TabIndex = 2;
@@ -65,7 +67,7 @@
             // 
             // goHere
             // 
-            goHere.Location = new Point(12, 204);
+            goHere.Location = new Point(12, 271);
             goHere.Name = "goHere";
             goHere.Size = new Size(183, 33);
             goHere.TabIndex = 3;
@@ -73,11 +75,31 @@
             goHere.UseVisualStyleBackColor = true;
             goHere.Click += goHere_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(12, 350);
+            button1.Name = "button1";
+            button1.Size = new Size(398, 34);
+            button1.TabIndex = 4;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(12, 390);
+            button2.Name = "button2";
+            button2.Size = new Size(398, 34);
+            button2.TabIndex = 5;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(425, 430);
+            Controls.Add(button2);
+            Controls.Add(button1);
             Controls.Add(goHere);
             Controls.Add(goThoughTheDoor);
             Controls.Add(exits);
@@ -94,5 +116,7 @@
         private ComboBox exits;
         private Button goThoughTheDoor;
         private Button goHere;
+        private Button button1;
+        private Button button2;
     }
 }
