@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\bin\Debug\net8.0\zadanie16v.exe
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\bin\Debug\net8.0\zadanie16v.deps.json
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\bin\Debug\net8.0\zadanie16v.runtimeconfig.json
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\bin\Debug\net8.0\zadanie16v.dll
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\bin\Debug\net8.0\zadanie16v.pdb
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.AssemblyInfo.cs
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.sourcelink.json
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.dll
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\refint\zadanie16v.dll
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.pdb
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\zadanie16v.genruntimeconfig.cache
+C:\Users\admin\source\repos\praktyki1\zadanie16v\zadanie16v\obj\Debug\net8.0\ref\zadanie16v.dll
